@@ -1,4 +1,5 @@
-# 🌞 equation-hacs 
+# 🌞 equation-hacs *
+Nacho
 A minimal integration for Equation radiators in Home Assistant. 🏡
 
 ### Supported Devices
